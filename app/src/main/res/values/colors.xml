@@ -10,5 +10,7 @@
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
     <color name="accent_pink">#fe2bd0</color>
-
+    <color name="purple">#b60089</color>
+    <color name="dark_gray">#262525</color>
+    <color name="dark_purple">#9e2e81</color>
 </resources>
